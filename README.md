@@ -1,4 +1,5 @@
+The Odin Project:
 
-The name of this project is: Google-Homepage 
+HTML & CSS Project:Google-Homepage 
 Link: https://github.com/frankie-o/google-homepage.git 
-Project of http://theodinproject.com
+<a href="http://www.theodinproject.com/web-development-101/html-css">Project Link</a>
